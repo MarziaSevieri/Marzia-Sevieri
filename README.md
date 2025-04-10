@@ -43,17 +43,6 @@ Most recently, I retrained through a Data Technician Bootcamp, where I focused o
 - 🧾 **[Certifications](https://github.com/Maya-lab-123/certifications)**  
   Verified learning achievements in Power BI, data analytics, cloud tools
 
-- 📂 **Data Tech Workbooks** *(Private Repo)*  
-  Hands-on SQL, Excel, Power BI and Tableau exercises from Data Technician Bootcamp
-
----
-
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzia-sevieri)  
-📫 Email: marzia.sevieri@gmail.com  
-🌐 GitHub: [github.com/Maya-lab-123](https://github.com/Maya-lab-123)
-
 ---
 
 ### ⭐ Thanks for Visiting!
