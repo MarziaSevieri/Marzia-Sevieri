@@ -9,13 +9,16 @@
 
 ### 🌟 About Me
 
-I'm a data-driven problem solver with a background in nutrition and market research, recently retrained through the Data Technician Bootcamp.  
-I enjoy turning messy datasets into clear visuals and actionable insights — especially in health, sustainability, and consumer behaviour.  
+I am an adaptable and motivated individual with an MSc in Market Research and Analytics.  
+My background includes expertise in quantitative research methods and experimental design, developed through academic training and thesis projects. I’ve also gained technical skills in data analysis using tools such as SPSS, Power BI, and Qualtrics.
 
-Currently exploring:
+In addition to my academic experience, I’ve worked in sales, client services, and product promotion across diverse industries.  
+Most recently, I retrained through a Data Technician Bootcamp, where I focused on developing practical skills in: 
+
 - 📊 Power BI dashboards for real-world decision-making  
 - 🐍 Python for automation and data cleaning  
-- ☁️ Microsoft Azure for cloud-based analytics  
+- 🧠 SQL for querying, filtering, and organising datasets  
+- ☁️ Microsoft Azure for cloud-based analytics   
 
 ---
 
