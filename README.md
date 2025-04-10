@@ -1,34 +1,23 @@
 # 👋 Hi, I'm Marzia Sevieri
 
 **Data Analyst | Market Researcher | Power BI Enthusiast**  
-🎓 MSc in Market Research & Analytics · 🎓 BSc in Nutritional Sciences  
-📍 Based in Manchester, UK | 🇮🇹 Italian native · 🇬🇧 Fluent in English  
-💡 Proudly neurodivergent – driven by structure, creativity, and a passion for learning  
+
+🎓 MSc in Market Research & Analytics 
+📍 Based in Manchester, UK 
 
 ---
 
 ### 🌟 About Me
 
-I am an adaptable and motivated individual with an MSc in Market Research and Analytics.  
-My background includes expertise in quantitative research methods and experimental design, developed through academic training and thesis projects. I’ve also gained technical skills in data analysis using tools such as SPSS, Power BI, and Qualtrics.
-
-In addition to my academic experience, I’ve worked in sales, client services, and product promotion across diverse industries.  
+I am an adaptable and motivated individual.
+My background includes expertise in quantitative research methods and experimental design, developed through academic training and thesis projects.
+I’ve also gained technical skills in data analysis using tools such as SPSS, Power BI, and Qualtrics.
 Most recently, I retrained through a Data Technician Bootcamp, where I focused on developing practical skills in: 
 
 - 📊 Power BI dashboards for real-world decision-making  
 - 🐍 Python for automation and data cleaning  
 - 🧠 SQL for querying, filtering, and organising datasets  
 - ☁️ Microsoft Azure for cloud-based analytics   
-
----
-
-### 📚 Education
-
-- 🎓 **MSc Market Research and Analytics** (Distinction)  
-  *Manchester Metropolitan University*
-- 🎓 **BSc Nutritional Sciences** (First Class Honours)  
-  *Specialising in food science and product development*
-- 📜 HACCP Level 3 – Food Safety (Distinction)
 
 ---
 
@@ -72,5 +61,4 @@ Most recently, I retrained through a Data Technician Bootcamp, where I focused o
 Feel free to explore my projects or reach out if you’re interested in collaborating on:  
 - Consumer research  
 - Health analytics  
-- Sustainability and food systems  
-⭐ Don’t forget to star anything you find helpful!
+
