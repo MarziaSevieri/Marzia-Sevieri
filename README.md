@@ -6,9 +6,10 @@ About Me
 
 MSc Health Data Science student at the University of Exeter.
 
-Experience in quantitative research.
+Training in quantitative research and data analysis.
 
-Interested in applying data science methods to healthcare and population health datasets. 
+Learning Python, SQL, Power BI, and R to work with healthcare and population health datasets.
+
 
 ---
 
@@ -19,6 +20,7 @@ Skills
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![SPSS](https://img.shields.io/badge/-SPSS-CC0000?style=flat&logo=ibm&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
 
